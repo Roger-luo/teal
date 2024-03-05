@@ -183,3 +183,10 @@ main.py
 *.pkl
 *.data
 *.h5
+
+# venv
+requirements.txt
+.pytest_cache
+wandb
+
+data/
