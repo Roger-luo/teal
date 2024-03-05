@@ -4,8 +4,10 @@ A Python Package for Operator Learning Renromalization Group
 
 ## Installation
 
-```bash
-pip install olrg-teal
+This package is currently at its early stages of development. Thus it is not yet available on PyPI. We use [rye](https://rye-up.com/) for package management. To install it from source, clone the repository and run:
+
+```sh
+rye sync
 ```
 
 ## Examples
