@@ -12,15 +12,6 @@ rye sync
 
 ## Examples
 
-Running OMM example
-
-!!! warning
-    This may require a GPU to run.
-
-```sh
-python examples/omm.py --wandb=False --n-iterations=5000 --ham=TFIM --n-start=4 --n-final=10 --enlarge-by=1 --final-time=0.1 --order=2 --n-batch=5 --depth=8 --order-factor=one --n-samples=20
-```
-
 Running HEM example
 
 ```sh
@@ -37,6 +28,14 @@ python examples/hem.py --wandb=False\
   --width=4\
   --order-factor=one\
   --n-samples=20
+```
+
+Running OMM example
+
+**Warning**: This may require a GPU to run.
+
+```sh
+python examples/omm.py --wandb=False --n-iterations=5000 --ham=TFIM --n-start=4 --n-final=10 --enlarge-by=1 --final-time=0.1 --order=2 --n-batch=5 --depth=8 --order-factor=one --n-samples=20
 ```
 
 ## License
