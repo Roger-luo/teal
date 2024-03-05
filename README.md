@@ -1,6 +1,8 @@
 # Teal
 
-A Python Package for Operator Learning Renromalization Group
+A Python Package for Operator Learning Renromalization Group.
+
+**Warning**: This package is currently at its early stages of development. It is not yet ready for serious use. All the APIs are subject to change. No unit tests are available yet. However the implementation has been tested in private projects and is expected to work.
 
 ## Installation
 
