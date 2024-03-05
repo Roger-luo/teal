@@ -1,2 +1,2 @@
 def hello():
-    return "Hello from teal-public!"
+    return "Hello from teal!"
