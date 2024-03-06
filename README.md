@@ -12,6 +12,8 @@ This package is currently at its early stages of development. Thus it is not yet
 rye sync
 ```
 
+To setup CUDA environment, please refer to [jax documents](https://jax.readthedocs.io/en/latest/).
+
 ## Examples
 
 Running HEM example
