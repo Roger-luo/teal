@@ -4,6 +4,8 @@ A Python Package for Operator Learning Renromalization Group.
 
 **Warning**: This package is currently at its early stages of development. It is not yet ready for serious use. All the APIs are subject to change. No unit tests are available yet. However the implementation has been tested in private projects and is expected to work.
 
+This package contains the implementation for paper [Operator Learning Renormalization Group, arXiv:2403.03199](https://arxiv.org/abs/2403.03199) as [paper-v1 release](https://github.com/Roger-luo/teal/releases/tag/paper-v1).
+
 ## Installation
 
 This package is currently at its early stages of development. Thus it is not yet available on PyPI. We use [rye](https://rye-up.com/) for package management. To install it from source, clone the repository and run:
